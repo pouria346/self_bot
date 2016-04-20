@@ -87,6 +87,7 @@ function run(msg, matches)
 ●#sticker (text)
 تبدیل (text) به استیکر
 
+●#invite (user-name)
 .......................................
 📡
 - @BeatBot_Team
