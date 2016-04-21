@@ -34,7 +34,7 @@ return {
 
    patterns = {
 
-      "^!!tgservice (chat_add_user_link)$",
+      "^!jo (chat_add_user_link)$",
 
 },
 
